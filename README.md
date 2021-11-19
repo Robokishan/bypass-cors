@@ -1,6 +1,6 @@
 # bypass-cors
 
-only for development purpose only do not use this as something bad
+only for development purpose only 
 
 This Bypass-cors-nginx-docker repo. it is reverse proxy for any frontend so that cors for backend can be bypassed
 
