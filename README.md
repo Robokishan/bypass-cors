@@ -1,4 +1,4 @@
-# bypass-cors
+# Bypass-cors-nginx
 
 only for development purpose only 
 
